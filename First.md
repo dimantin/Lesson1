@@ -36,5 +36,10 @@ while index < size
 avg = sum / size
 print(avg)
 ```
- 
+___
+
+>Легко вставать, когда ты не ложишься 
+>
+>*АУФ* 
+
    
